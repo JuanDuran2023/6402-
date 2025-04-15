@@ -48,7 +48,7 @@ function crearMenu() {
                             <a id="menutxt" class="nav-link " href="testimonios.html">Escuchas sus voces</a>
                         </li>
                         <li class="nav-item p-md-2 py-md-1">
-                            <a id="menutxt"  class="nav-link" href="contact.html">Un mapa de memorias</a>
+                            <a id="menutxt"  class="nav-link" href="https://nidumar.itch.io/6402">Un mapa de memorias</a>
                         </li>
                         <li class="nav-item p-md-2 py-md-1">
                             <a id="menutxt"  class="nav-link" href="prensa.html">Lo que se dijo</a>
